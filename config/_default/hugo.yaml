@@ -19,9 +19,12 @@ removePathAccents: true
 ## ADVANCED
 ############################
 
+params:
+  description: 'YingmingQu'
+
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+paginate: 10 #每页显示文章数
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -33,7 +36,7 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  home: [HTML, RSS, JSON, WebAppManifest]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
@@ -59,6 +62,4 @@ related:
 security:
   _merge: deep
 sitemap:
-  _merge: deep
-minify:
   _merge: deep

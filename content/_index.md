@@ -106,20 +106,21 @@ sections:
       items:
         - title: 山东省科技进步奖,《深部油气储层高精度地震成像技术及工业化应用》
           company: 山东省人民政府
-#          company_url: 'https://www.upc.edu.cn/'
-#          company_logo: org-China University of Petroleum (East China)
-#          location: Qingdao,China
+          company_url: 
+          company_logo: 
+          location: 
           date_start: '2019-11'
-#          date_end: 'present'
-#          description: |2-
-#              Research interests:
-#              * Seismic Wave Propagation and Imaging
-#              * Computational Geophysics
-#              * Artificial Intelligence
+          date_end: ''
+          description:         
       items:
         - title: 科技进步奖二等奖,《低品质数据驱动的高精度地震成像关键技术》
           company: 中国地球物理学会  
+          company_url: 
+          company_logo: 
+          location: 
           date_start: '2019-10'
+          date_end: ''
+          description:
       items:
         - title: 科技进步奖二等奖,《基于深度学习与信息融合的高精度地震成像关键技术及工业应用》
           company: 中国石油与化学工业联合会  
@@ -128,22 +129,32 @@ sections:
         - title: 科技进步奖二等奖,《深层地震智能处理与高分辨率反演成像关键技术及工业化应用》
           company: 中国石油与化学工业联合会  
           date_start: '2022-12'
+          date_end: ''
+          description:
       items:
         - title: 刘光鼎地球物理青年科学技术奖
           company: 刘光鼎地球物理科学基金会  
           date_start: '2022-02'
+          date_end: ''
+          description:
       items:
         - title: 山东省研究生优秀科技创新成果奖一等奖,《超深部油气储层的微弱地震信号正演、成像方法及应用技术》
           company: 山东省教育厅  
           date_start: '2018-11' 
+          date_end: ''
+          description:
       items:
         - title: 中国地球物理学会优秀博士论文奖,《可控震源特征噪音压制及混叠数据成像研究》
           company: 中国地球物理学会  
           date_start: '2019-10' 
+          date_end: ''
+          description:
       items:
         - title: Best Presentation,《Pre-stack Elastic Wave Reverse Time Migration of Free-surface》
           company: SEG Workshop  
-          date_start: '2017-10'                        
+          date_start: '2017-10' 
+          date_end: ''
+          description:                       
     design:
       columns: '2'
     content:
@@ -155,14 +166,20 @@ sections:
         - title: 山东省泰山青年学者
           company: 山东省科学技术厅  
           date_start: '2023-11'
+          date_end: ''
+          description:
       items:
         - title: 青年人才托举工程
           company: 中国科学技术协会  
           date_start: '2021-09'
+          date_end: ''
+          description:
       items:
         - title: 西海岸新区优秀青年人才
           company: 西海岸新区工委组织部  
-          date_start: '2021-12'                                
+          date_start: '2021-12'
+          date_end: ''
+          description:                                
     design:
       columns: '2'
 #  - block: accomplishments
